@@ -1,0 +1,27 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o X:/My Documents/EC311/Labs/ProjectFinal/KitchenTimer_testbench_isim_beh.exe -prj X:/My Documents/EC311/Labs/ProjectFinal/KitchenTimer_testbench_beh.prj work.KitchenTimer_testbench work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/seven_alternate.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/Debounce.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/ClockDivider.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/binary_to_segment.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/KitchenTimer.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Labs/ProjectFinal/KitchenTimer_testbench.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ClockDivider
+Compiling module Debounce
+Compiling module seven_alternate
+Compiling module binary_to_segment
+Compiling module KitchenTimer
+Compiling module KitchenTimer_testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 Verilog Units
+Built simulation executable X:/My Documents/EC311/Labs/ProjectFinal/KitchenTimer_testbench_isim_beh.exe
+Fuse Memory Usage: 28760 KB
+Fuse CPU Usage: 545 ms

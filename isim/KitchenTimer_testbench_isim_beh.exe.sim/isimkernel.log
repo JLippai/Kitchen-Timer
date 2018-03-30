@@ -1,0 +1,28 @@
+Command line:
+   KitchenTimer_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52443
+
+Tue Apr 26 14:42:01 2016
+
+
+ Elaboration Time: 0.109201 sec
+
+ Current Memory Usage: 824.025 Meg
+
+ Total Signals          : 65
+ Total Nets             : 102
+ Total Signal Drivers   : 36
+ Total Blocks           : 11
+ Total Primitive Blocks : 9
+ Total Processes        : 60
+ Total Traceable Variables  : 65
+ Total Scalar Nets and Variables : 551
+
+ Total Simulation Time: 162.959 sec
+
+ Current Memory Usage: 666.739 Meg
+
+Tue Apr 26 14:48:03 2016
+

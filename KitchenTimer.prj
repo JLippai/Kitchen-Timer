@@ -1,0 +1,5 @@
+verilog work "seven_alternate.v"
+verilog work "Debounce.v"
+verilog work "ClockDivider.v"
+verilog work "binary_to_segment.v"
+verilog work "KitchenTimer.v"

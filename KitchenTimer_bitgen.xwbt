@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\My Documents\EC311\Labs\ProjectFinal\KitchenTimer.ncd
+OUTFILE=X:\My Documents\EC311\Labs\ProjectFinal\KitchenTimer.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=X:\My Documents\EC311\Labs\ProjectFinal
+LICENSE=ISE
+USER_INFO=174135685_174135686_210617260_121
